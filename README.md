@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything relationed to tech so I know about python, django, go, JS, Vue.JS, SQL Server, MySQL, PL/SQL and few other things!
 - 🌱 I’m currently learning about python and django
 - 💞️ I’m looking to collaborate on everything that I can extract a learning and new skills
-- 📫 How to reach me, you can chat me to my email eduardo831_@hotmail.com or you can write me a message for telegram / whatsapp to the number +57 3103096861
+- 📫 How to reach me, you can chat me to my email eduardo831_@hotmail.com
 
 <!---
 Alvaro8317/Alvaro8317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
