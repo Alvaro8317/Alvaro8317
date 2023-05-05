@@ -5,7 +5,7 @@
 
 - Currently working for PRAGMA S.A. like a software developer, working also with a banking customer using Java, PHP, C#, Node.js and Python. Also, using some tools like MQ, API Connect and deploying with AWS / Azure
 
-- 👀 I’m interested in everything relationed to tech so I know about **python, django, go, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
+- 👀 I’m interested in everything relationed to tech so I know about **python, django, C# with .NET, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
 
 - 🌱 I’m currently learning and getting a deeper knowledge of Spring and cloud environments, specially with AWS.
 
