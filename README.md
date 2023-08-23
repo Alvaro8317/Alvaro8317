@@ -1,5 +1,5 @@
 # Alvaro8317
-## Telecommunications Engineer and Backend developer
+## Telecommunications Engineer and Software developer
 
 - 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro Garzón
 
