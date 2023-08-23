@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro Garzón
 
-- Currently working for PRAGMA S.A. like a software developer, working also with a banking customer using Java, PHP, C#, Node.js and Python. Also, using some tools like MQ, API Connect and deploying with AWS / Azure
+- Currently working for PRAGMA S.A. like a software developer, working also with a banking customer using Java, PHP, C#, Node.js and Python. Also, using some tools like MQ, API Connect and deploying with AWS, certified by AWS like a Certified Cloud Practitioner (CCP), working to get the next certification with AWS!
 
 - 👀 I’m interested in everything relationed to tech so I know about **python, django, C# with .NET, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
 
