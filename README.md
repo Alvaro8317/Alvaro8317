@@ -1,7 +1,7 @@
 # Alvaro8317
 ## Telecommunications Engineer and Software developer
 
-- 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro Garzón
+- 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro
 
 - Currently working for PRAGMA S.A. like a software developer, working also with a banking customer using Java, PHP, C#, Node.js and Python. Also, using some tools like MQ, API Connect and deploying with AWS, certified by AWS like a Developer Associate AWS (DVA) and Certified Cloud Practitioner (CCP)!
 
