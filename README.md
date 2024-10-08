@@ -1,17 +1,22 @@
 # Alvaro8317
-## Telecommunications Engineer and Software developer
+## Who am I?
 
-- 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro
+- 👋 Hi, I’m @Alvaro8317 or you can call me Alvaro, I'm telecommunications engineer and senior software developer
 
-- Currently working for PRAGMA S.A. like a software developer, working also with a banking customer using Java, PHP, C#, Node.js and Python. Also, using some tools like MQ, API Connect and deploying with AWS, certified by AWS like a Developer Associate AWS (DVA) and Certified Cloud Practitioner (CCP)!
+- Certified by AWS as Developer Associate, Cloud Practitioner and Certified by Azure with AZ-900
+
+- Currently working for PRAGMA S.A. like a Senior Software Developer, working also with a banking customer using Python, Golang and Node,js. Also, using some tools like serverless services as API Gateway, Lambda, SQS deploying with AWS.
 
 - 👀 I’m interested in everything relationed to tech so I know about **python, django, C# with .NET, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
-
-- 🌱 I’m currently learning and getting a deeper knowledge of Spring and cloud environments, specially with AWS.
 
 - 👌 At this moment I'm building an amazing portfolio! But unfortunately I have not had enough time these last months, I promise to update the link here soon!
 
 - 📫 How to reach me? Easy! You can send me an email to eduardo831_@hotmail.com or dalvaro8317ev@hotmail.com
+
+## Trophies
+
+Here you can find my trophies of GitHub, the source is from [here](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alvaro8317)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Alvaro8317/Alvaro8317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
