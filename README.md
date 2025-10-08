@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in everything relationed to tech so I know about **python, django, C# with .NET, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
 
-- 👌 At this moment I'm building an amazing portfolio! But unfortunately I have not had enough time these last months, I promise to update the link here soon!
+- 👌 You'll find my portfolio here: https://alvaro8317.lat/
 
 - 📫 How to reach me? Easy! You can send me an email to eduardo831_@hotmail.com or dalvaro8317ev@hotmail.com
 
