@@ -5,7 +5,7 @@
 
 - Certified by AWS as Developer Associate, Cloud Practitioner and Certified by Azure with AZ-900
 
-- Currently working for BOLD S.A.S. like a Software Engineer, working with Python, DBT, Data Engineering, SQL and a lot, a lot!!! of AWS, a beautiful company based in cloud 😁
+- Currently working for BOLD CF. like a Software Engineer L3, working with Python, DBT, Data Engineering, SQL and a lot, a lot!!! of AWS, a beautiful company based in cloud 😁
 
 - 👀 I’m interested in everything relationed to tech so I know about **python, django, C# with .NET, JS, node.js, typescript and Java** (With some frameworks like *Express.js*, *Spring*, *FastAPI* and *Nest.js*), SQL Server, MySQL, PL/SQL and few other things!
 
